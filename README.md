@@ -24,7 +24,7 @@ From root directory:
 | Meter         | books                | `GET` `/books/name/{name}`             | 
 | Meter         | books                | `PATCH` `/books/{id}/price`            | 
 | Counter       | greeting             | `GET` `/`                              |
-| Counter       | greeting             | `POST` `DELETE` `/books`                | 
+| Counter       | books available      | `POST` `DELETE` `/books`                | 
 | Histogram     | books price change   | `PATCH` `/books/{id}/price`            | 
 | Histogram     | request body length  | `PATCH` `/books/{id}`                  | 
 | Gauge         | books count          | `DELETE` `/books/{id}`                 | 
