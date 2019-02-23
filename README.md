@@ -1,5 +1,5 @@
 # Book Api
-
+The purpose of this app is to demonstrate DevOps [infra](https://github.com/athenus-rufus/exam-infra) for PGR301 exam.
 
 ### Postman collection
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f400859b1ba3d94e4fee)
